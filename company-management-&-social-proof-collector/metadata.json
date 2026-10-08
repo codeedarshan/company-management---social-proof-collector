@@ -1,0 +1,6 @@
+{
+  "name": "Company Management & Social Proof Collector",
+  "description": "Comprehensive company management system and customer testimonial platform with space creation, review moderation inbox, Wall of Love showcase, embed generator, and database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
